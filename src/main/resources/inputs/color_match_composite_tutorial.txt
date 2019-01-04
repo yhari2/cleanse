@@ -1,0 +1,24 @@
+What you learned: Match color in a composite
+The different elements in a composite often come from photos that have different color characteristics.  One of the final steps in many compositing projects is to create a unifying color treatment so that the various image elements all work together.
+
+Create a color-averaged layer from the background
+
+A color-averaged layer can help unify elements in a composite.
+
+Combine layered images into a composite. With the Background layer active, choose Layer > New > Layer via Copy.
+In the Layers panel, drag the new Background copy layer to the top of the layer stack.
+With the Background copy layer active, choose Filter > Blur > Average.
+Open the blend mode menu at the top of the Layers panel and set the blend mode of the color-averaged Background copy layer to Color. This adds a unifying color tint to the composite.
+Try dragging the Opacity slider to the left to vary the effect of the color-averaged layer.
+Apply a Solid Color fill layer
+
+A Solid Color layer is another way to add a unifying color treatment to a composite.
+
+Select the Eyedropper in the Toolbar and click a color in the image.
+Click the Add new fill or adjustment layer button at the bottom of the Layers panel and choose Solid Color. In the Color Picker, the color you sampled with the Eyedropper will already be selected, or you can choose a new color.
+Open the blend mode menu at the top of the Layers panel and set the blend mode for the Color Fill layer to Hue or Color to create a unifying color tint.
+In the Layers panel, select the layer mask thumbnail on the Solid Color layer, and paint with black to hide, or with gray to partially hide, the color tint on parts of the composite. You can also customize the tint by adjusting the layer opacity.
+Save your work
+
+Save the image in .PSD or .TIFF format to retain the layers.
+Tip: You can also use other adjustment layers, like Photo Filter adjustment layers, to create a unifying color treatment for a composite image.

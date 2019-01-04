@@ -1,0 +1,16 @@
+Square the composition
+Amr emphasizes the symmetry of the composition by making the image a square. He chooses Image > Image Size, deselects Constrain Aspect Ratio, and sets the Width and Height values to 4000 each.
+
+Spin it around
+Amr then distorts the image to create the circular shape. To do so, he uses the tools in the Distort filter (Filter > Distort > Polar Coordinates) and selects Rectangular to Polar.
+
+Make it seamless
+To blend the seam at the center, Amr reaches for the Healing Brush. He defines the source area next to the seam (Alt+click in Windows; Option+click in macOS), then drags over it.
+
+Tip: The Clone tool, Patch tool, and Smudge tool can also be helpful for cleanup.
+
+Bring in the main character
+To add a story to the illustration, Amr uses the Pen tool to trace the silhouette of a figure in another image. He uses Transform > Scale to resize the figure, then places it into the illustration.
+
+Complete the scene
+Lastly, Amr adjusts the contrast and color balance to add more drama to the scene. To see more of his work, including other “Round Things” compositions, view his projects on Behance.

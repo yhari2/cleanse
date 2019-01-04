@@ -1,0 +1,4 @@
+brush
+eraser
+rectangular square marquee
+spot healing brush

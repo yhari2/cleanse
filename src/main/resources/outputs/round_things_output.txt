@@ -1,0 +1,7 @@
+patch
+view
+pen
+rectangular square marquee
+clone stamp
+smudge
+color replacement

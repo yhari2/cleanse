@@ -1,0 +1,5 @@
+select
+paint bucket
+blur
+background eraser
+color replacement

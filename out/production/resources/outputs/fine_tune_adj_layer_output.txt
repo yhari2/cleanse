@@ -1,0 +1,4 @@
+select
+paint bucket
+color replacement
+view
